@@ -1,0 +1,762 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[jLD63Pc9b85YEDcwpgCQ]]></key>
+    <method><![CDATA[review_list]]></method>
+  </Request>
+  
+<reviews start="1" end="10" total="59">
+    <review>
+  <id>2257629733</id>
+    <book>
+  <id type="integer">7604</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">12752</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.zTgflENcjmjMrquC5OFsvg</uri>
+  <title>Lolita</title>
+  <title_without_series>Lolita</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1377756377m/7604.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1377756377s/7604.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/7604.Lolita</link>
+  <num_pages>331</num_pages>
+  <format>Paperback</format>
+  <edition_information>New Edition, Penguin Modern Classics</edition_information>
+  <publisher>Penguin</publisher>
+  <publication_day/>
+  <publication_year>1995</publication_year>
+  <publication_month/>
+  <average_rating>3.88</average_rating>
+  <ratings_count>533768</ratings_count>
+  <description>Humbert Humbert - scholar, aesthete and romantic - has fallen completely and utterly in love with Lolita Haze, his landlady's gum-snapping, silky skinned twelve-year-old daughter. Reluctantly agreeing to marry Mrs Haze just to be close to Lolita, Humbert suffers greatly in the pursuit of romance; but when Lo herself starts looking for attention elsewhere, he will carry her off on a desperate cross-country misadventure, all in the name of Love. Hilarious, flamboyant, heart-breaking and full of ingenious word play, Lolita is an immaculate, unforgettable masterpiece of obsession, delusion and lust.</description>
+<authors>
+<author>
+<id>5152</id>
+<name>Vladimir Nabokov</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1482502806p5/5152.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1482502806p2/5152.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/5152.Vladimir_Nabokov]]></link>
+<average_rating>3.88</average_rating>
+<ratings_count>923407</ratings_count>
+<text_reviews_count>34373</text_reviews_count>
+</author>
+</authors>
+  <published>1995</published>
+<work>  <id>1268631</id>
+  <uri>kca://work/amzn1.gr.work.v1.dMjeaMPyiD1Oy11ZF_vVJw</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+
+    <shelf name="to-read" exclusive="true" review_shelf_id="1904980497" sortable="true" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sun Jan 14 11:25:46 -0800 2018</date_added>
+  <date_updated>Sun Jan 14 11:25:47 -0800 2018</date_updated>
+  <read_count>0</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2257629733]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2257629733]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2257625622</id>
+    <book>
+  <id type="integer">2517</id>
+  <isbn>0375706852</isbn>
+  <isbn13>9780375706851</isbn13>
+  <text_reviews_count type="integer">2305</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.Dys5TvcvLQwbKDeGuUWnKg</uri>
+  <title>My Name is Red</title>
+  <title_without_series>My Name is Red</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1374015288m/2517.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1374015288s/2517.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/2517.My_Name_is_Red</link>
+  <num_pages>417</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Vintage</publisher>
+  <publication_day>27</publication_day>
+  <publication_year>2002</publication_year>
+  <publication_month>8</publication_month>
+  <average_rating>3.83</average_rating>
+  <ratings_count>34975</ratings_count>
+  <description>At once a fiendishly devious mystery, a beguiling love story, and a brilliant symposium on the power of art, &lt;i&gt;My Name Is Red&lt;/i&gt; is a transporting tale set amid the splendor and religious intrigue of sixteenth-century Istanbul, from one of the most prominent contemporary Turkish writers.&lt;br /&gt;&lt;br /&gt;The Sultan has commissioned a cadre of the most acclaimed artists in the land to create a great book celebrating the glories of his realm. Their task: to illuminate the work in the European style. But because figurative art can be deemed an affront to Islam, this commission is a dangerous proposition indeed. The ruling elite therefore mustn’t know the full scope or nature of the project, and panic erupts when one of the chosen miniaturists disappears. The only clue to the mystery–or crime? –lies in the half-finished illuminations themselves. Part fantasy and part philosophical puzzle, &lt;i&gt;My Name is Red&lt;/i&gt; is a kaleidoscopic journey to the intersection of art, religion, love, sex and power.</description>
+<authors>
+<author>
+<id>1728</id>
+<name>Orhan Pamuk</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1423469681p5/1728.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1423469681p2/1728.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1728.Orhan_Pamuk]]></link>
+<average_rating>3.73</average_rating>
+<ratings_count>145236</ratings_count>
+<text_reviews_count>13714</text_reviews_count>
+</author>
+</authors>
+  <published>2002</published>
+<work>  <id>2150886</id>
+  <uri>kca://work/amzn1.gr.work.v1.d19rIMN1sVh7ZT_VzuBrjQ</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+
+    <shelf name="to-read" exclusive="true" review_shelf_id="1904976609" sortable="true" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sun Jan 14 11:22:27 -0800 2018</date_added>
+  <date_updated>Sun Jan 14 11:22:28 -0800 2018</date_updated>
+  <read_count>0</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2257625622]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2257625622]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2257625033</id>
+    <book>
+  <id type="integer">51893</id>
+  <isbn>0140047484</isbn>
+  <isbn13>9780140047486</isbn13>
+  <text_reviews_count type="integer">1188</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.ytTexeuscsF7K9Z410vNkA</uri>
+  <title>Thus Spoke Zarathustra</title>
+  <title_without_series>Thus Spoke Zarathustra</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1480901846m/51893.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1480901846s/51893.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/51893.Thus_Spoke_Zarathustra</link>
+  <num_pages>327</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Penguin Books</publisher>
+  <publication_day>30</publication_day>
+  <publication_year>1978</publication_year>
+  <publication_month>3</publication_month>
+  <average_rating>4.05</average_rating>
+  <ratings_count>82242</ratings_count>
+  <description>Friedrich Nietzsche's most accessible and influential philosophical work, misquoted, misrepresented, brilliantly original and enormously influential, Thus Spoke Zarathustra is translated from the German by R.J. Hollingdale in Penguin Classics. Nietzsche was one of the most revolutionary and subversive thinkers in Western philosophy, and Thus Spoke Zarathustra remains his most famous and influential work. It describes how the ancient Persian prophet Zarathustra descends from his solitude in the mountains to tell the world that God is dead and that the Superman, the human embodiment of divinity, is his successor. Nietzsche's utterance 'God is dead', his insistence that the meaning of life is to be found in purely human terms, and his doctrine of the Superman and the will to power were all later seized upon and unrecognisably twisted by, among others, Nazi intellectuals. With blazing intensity and poetic brilliance, Nietzsche argues that the meaning of existence is not to be found in religious pieties or meek submission to authority, but in an all-powerful life force: passionate, chaotic and free. Frederich Nietzsche (1844-1900) became the chair of classical philology at Basel University at the age of 24 until his bad health forced him to retire in 1879. He divorced himself from society until his final collapse in 1899 when he became insane. A powerfully original thinker, Nietzsche's influence on subsequent writers, such as George Bernard Shaw, D.H. Lawrence, Thomas Mann and Jean-Paul Sartre, was considerable. If you enjoyed Thus Spoke Zarathustra you might like Nietzsche's Beyond Good and Evil, also available in Penguin Classics. 'Enigmatic, vatic, emphatic, passionate, often breathtakingly insightful, his works together make a unique statement in the literature of European ideas' A. C. Grayling</description>
+<authors>
+<author>
+<id>1938</id>
+<name>Friedrich Nietzsche</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1455294131p5/1938.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1455294131p2/1938.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1938.Friedrich_Nietzsche]]></link>
+<average_rating>4.04</average_rating>
+<ratings_count>255367</ratings_count>
+<text_reviews_count>8078</text_reviews_count>
+</author>
+</authors>
+  <published>1978</published>
+<work>  <id>196327</id>
+  <uri>kca://work/amzn1.gr.work.v1.uTfGXFdieofXj9G3aAY5bQ</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+
+    <shelf name="to-read" exclusive="true" review_shelf_id="1904976064" sortable="true" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sun Jan 14 11:21:59 -0800 2018</date_added>
+  <date_updated>Sun Jan 14 11:21:59 -0800 2018</date_updated>
+  <read_count>0</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2257625033]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2257625033]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2236261754</id>
+    <book>
+  <id type="integer">34684622</id>
+  <isbn>1501139150</isbn>
+  <isbn13>9781501139154</isbn13>
+  <text_reviews_count type="integer">406</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.olfFdWqBUNPnQWH5duoBlw</uri>
+  <title>Leonardo da Vinci</title>
+  <title_without_series>Leonardo da Vinci</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1508059671m/34684622.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1508059671s/34684622.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/34684622-leonardo-da-vinci</link>
+  <num_pages>600</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Simon  Schuster</publisher>
+  <publication_day>17</publication_day>
+  <publication_year>2017</publication_year>
+  <publication_month>10</publication_month>
+  <average_rating>4.14</average_rating>
+  <ratings_count>4877</ratings_count>
+  <description>The author of the acclaimed bestsellers &lt;i&gt;Steve Jobs&lt;/i&gt;, &lt;i&gt;Einstein&lt;/i&gt;, and &lt;i&gt;Benjamin Franklin&lt;/i&gt; brings Leonardo da Vinci to life in this exciting new biography.&lt;br /&gt;&lt;br /&gt;Based on thousands of pages from Leonardo’s astonishing notebooks and new discoveries about his life and work, Walter Isaacson weaves a narrative that connects his art to his science. He shows how Leonardo’s genius was based on skills we can improve in ourselves, such as passionate curiosity, careful observation, and an imagination so playful that it flirted with fantasy.&lt;br /&gt;&lt;br /&gt;He produced the two most famous paintings in history, &lt;i&gt;The Last Supper&lt;/i&gt; and the &lt;i&gt;Mona Lisa&lt;/i&gt;. But in his own mind, he was just as much a man of science and technology. With a passion that sometimes became obsessive, he pursued innovative studies of anatomy, fossils, birds, the heart, flying machines, botany, geology, and weaponry. His ability to stand at the crossroads of the humanities and the sciences, made iconic by his drawing of &lt;i&gt;Vitruvian Man&lt;/i&gt;, made him history’s most creative genius.&lt;br /&gt;&lt;br /&gt;His creativity, like that of other great innovators, came from having wide-ranging passions. He peeled flesh off the faces of cadavers, drew the muscles that move the lips, and then painted history’s most memorable smile. He explored the math of optics, showed how light rays strike the cornea, and produced illusions of changing perspectives in &lt;i&gt;The Last Supper&lt;/i&gt;. Isaacson also describes how Leonardo’s lifelong enthusiasm for staging theatrical productions informed his paintings and inventions.&lt;br /&gt;&lt;br /&gt;Leonardo’s delight at combining diverse passions remains the ultimate recipe for creativity. So, too, does his ease at being a bit of a misfit: illegitimate, gay, vegetarian, left-handed, easily distracted, and at times heretical. His life should remind us of the importance of instilling, both in ourselves and our children, not just received knowledge but a willingness to question it—to be imaginative and, like talented misfits and rebels in any era, to think different.</description>
+<authors>
+<author>
+<id>7111</id>
+<name>Walter Isaacson</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1192222433p5/7111.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1192222433p2/7111.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/7111.Walter_Isaacson]]></link>
+<average_rating>4.09</average_rating>
+<ratings_count>833675</ratings_count>
+<text_reviews_count>22104</text_reviews_count>
+</author>
+</authors>
+  <published>2017</published>
+<work>  <id>55861438</id>
+  <uri>kca://work/amzn1.gr.work.v1.1uFGx56ftuw3DwbUog55TQ</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+
+    <shelf name="to-read" exclusive="true" review_shelf_id="1884979487" sortable="true" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Mon Jan 01 09:21:08 -0800 2018</date_added>
+  <date_updated>Mon Jan 01 09:21:08 -0800 2018</date_updated>
+  <read_count>0</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2236261754]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2236261754]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2146887054</id>
+    <book>
+  <id type="integer">405790</id>
+  <isbn>0596510047</isbn>
+  <isbn13>9780596510046</isbn13>
+  <text_reviews_count type="integer">54</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.ht61twuBdiE24BP4sMmiLA</uri>
+  <title>Beautiful Code: Leading Programmers Explain How They Think</title>
+  <title_without_series>Beautiful Code: Leading Programmers Explain How They Think</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1328834707m/405790.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1328834707s/405790.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/405790.Beautiful_Code</link>
+  <num_pages>563</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>O'Reilly Media</publisher>
+  <publication_day>3</publication_day>
+  <publication_year>2007</publication_year>
+  <publication_month>7</publication_month>
+  <average_rating>3.72</average_rating>
+  <ratings_count>1247</ratings_count>
+  <description>How do the experts solve difficult problems in software development? In this unique and insightful book, leading computer scientists offer case studies that reveal how they found unusual, carefully designed solutions to high-profile projects. You will be able to look over the shoulder of major coding and design experts to see problems through their eyes.&lt;br /&gt;&lt;br /&gt;This is not simply another design patterns book, or another software engineering treatise on the right and wrong way to do things. The authors think aloud as they work through their project's architecture, the tradeoffs made in its construction, and when it was important to break rules. &lt;i&gt;Beautiful Code&lt;/i&gt; is an opportunity for master coders to tell their story. All author royalties will be donated to Amnesty International.</description>
+<authors>
+<author>
+<id>229855</id>
+<name>Andy Oram</name>
+<role>Editor</role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/229855.Andy_Oram]]></link>
+<average_rating>3.69</average_rating>
+<ratings_count>1922</ratings_count>
+<text_reviews_count>101</text_reviews_count>
+</author>
+</authors>
+  <published>2007</published>
+<work>  <id>395137</id>
+  <uri>kca://work/amzn1.gr.work.v1.6FI3v_rO0_tzBYhGVIh-wg</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+
+    <shelf name="to-read" exclusive="true" review_shelf_id="1798083941" sortable="true" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sat Oct 07 23:38:36 -0700 2017</date_added>
+  <date_updated>Sat Oct 07 23:38:37 -0700 2017</date_updated>
+  <read_count>0</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2146887054]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2146887054]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2146886792</id>
+    <book>
+  <id type="integer">18050049</id>
+  <isbn>0307378195</isbn>
+  <isbn13>9780307378194</isbn13>
+  <text_reviews_count type="integer">179</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.jDipICNo6wSadDnhJcv9Pg</uri>
+  <title>Plato at the Googleplex: Why Philosophy Won't Go Away</title>
+  <title_without_series>Plato at the Googleplex: Why Philosophy Won't Go Away</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1384015076m/18050049.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1384015076s/18050049.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/18050049-plato-at-the-googleplex</link>
+  <num_pages>480</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Pantheon</publisher>
+  <publication_day>4</publication_day>
+  <publication_year>2014</publication_year>
+  <publication_month>3</publication_month>
+  <average_rating>3.80</average_rating>
+  <ratings_count>1075</ratings_count>
+  <description>Is philosophy obsolete? Are the ancient questions still relevant in the age of cosmology and neuroscience, not to mention crowd-sourcing and cable news? The acclaimed philosopher and novelist Rebecca Newberger Goldstein provides a dazzlingly original plunge into the drama of philosophy, revealing its hidden role in today’s debates on religion, morality, politics, and science.&lt;br /&gt; &lt;br /&gt;At the origin of Western philosophy stands Plato, who got about as much wrong as one would expect from a thinker who lived 2,400 years ago. But Plato’s role in shaping philosophy was pivotal. On her way to considering the place of philosophy in our ongoing intellectual life, Goldstein tells a new story of its origin, re-envisioning the extraordinary culture that produced the man who produced philosophy.&lt;br /&gt; &lt;br /&gt;But it is primarily the fate of philosophy that concerns her. Is the discipline no more than a way of biding our time until the scientists arrive on the scene? Have they already arrived? Does philosophy itself ever make progress? And if it does, why is so ancient a figure as Plato of any continuing relevance?&lt;i&gt; Plato at the Googleplex&lt;/i&gt; is Goldstein’s startling investigation of these conundra. She interweaves her narrative with Plato’s own choice for bringing ideas to life—the dialogue.&lt;br /&gt; &lt;br /&gt;Imagine that Plato came to life in the twenty-first century and embarked on a multicity speaking tour. How would he handle the host of a cable news program who denies there can be morality without religion?  How would he mediate a debate between a Freudian psychoanalyst and a tiger mom on how to raise the perfect child? How would he answer a neuroscientist who, about to scan Plato’s brain, argues that science has definitively answered the questions of free will and moral agency? What would Plato make of Google, and of the idea that knowledge can be crowd-sourced rather than reasoned out by experts? With a philosopher’s depth and a novelist’s imagination and wit, Goldstein probes the deepest issues confronting us by allowing us to eavesdrop on Plato as he takes on the modern world.&lt;br /&gt;&lt;br /&gt;(With black-and-white photographs throughout.)</description>
+<authors>
+<author>
+<id>8107</id>
+<name>Rebecca Goldstein</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1259661199p5/8107.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1259661199p2/8107.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/8107.Rebecca_Goldstein]]></link>
+<average_rating>3.68</average_rating>
+<ratings_count>8956</ratings_count>
+<text_reviews_count>1311</text_reviews_count>
+</author>
+</authors>
+  <published>2014</published>
+<work>  <id>25332813</id>
+  <uri>kca://work/amzn1.gr.work.v1.SoOa9aiiUtTG0Se2HCGLcw</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+
+    <shelf name="to-read" exclusive="true" review_shelf_id="1798083341" sortable="true" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sat Oct 07 23:38:01 -0700 2017</date_added>
+  <date_updated>Sat Oct 07 23:38:02 -0700 2017</date_updated>
+  <read_count>0</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2146886792]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2146886792]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2054106497</id>
+    <book>
+  <id type="integer">179744</id>
+  <isbn>0192861980</isbn>
+  <isbn13>9780192861986</isbn13>
+  <text_reviews_count type="integer">129</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.96pr8PCnLJrv3CdihxMdug</uri>
+  <title>The Emperor's New Mind: Concerning Computers, Minds and the Laws of Physics</title>
+  <title_without_series>The Emperor's New Mind: Concerning Computers, Minds and the Laws of Physics</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/179744.The_Emperor_s_New_Mind</link>
+  <num_pages>640</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Oxford University Press, USA</publisher>
+  <publication_day>12</publication_day>
+  <publication_year>2002</publication_year>
+  <publication_month>12</publication_month>
+  <average_rating>3.84</average_rating>
+  <ratings_count>5190</ratings_count>
+  <description>For decades, proponents of artificial intelligence have argued that computers will soon be doing everything that a human mind can do. Admittedly, computers now play chess at the grandmaster level, but do they understand the game as we do? Can a computer eventually do everything a human mind can do?&lt;br /&gt; In this absorbing and frequently contentious book, Roger Penrose--eminent physicist and winner, with Stephen Hawking, of the prestigious Wolf prize--puts forward his view that there are some facets of human thinking that can never be emulated by a machine. Penrose examines what physics and mathematics can tell us about how the mind works, what they can't, and what we need to know to understand the physical processes of consciousness.&lt;br /&gt; He is among a growing number of physicists who think Einstein wasn't being stubborn when he said his "little finger" told him that quantum mechanics is incomplete, and he concludes that laws even deeper than quantum mechanics are essential for the operation of a mind. To support this contention, Penrose takes the reader on a dazzling tour that covers such topics as complex numbers, Turing machines, complexity theory, quantum mechanics, formal systems, Godel undecidability, phase spaces, Hilbert spaces, black holes, white holes, Hawking radiation, entropy, quasicrystals, the structure of the brain, and scores of other subjects.&lt;br /&gt;&lt;em&gt;The Emperor's New Mind&lt;/em&gt; will appeal to anyone with a serious interest in modern physics and its relation to philosophical issues, as well as to physicists, mathematicians, philosophers and those on either side of the AI debate.</description>
+<authors>
+<author>
+<id>1409</id>
+<name>Roger Penrose</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1306053631p5/1409.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1306053631p2/1409.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1409.Roger_Penrose]]></link>
+<average_rating>4.04</average_rating>
+<ratings_count>25068</ratings_count>
+<text_reviews_count>914</text_reviews_count>
+</author>
+</authors>
+  <published>2002</published>
+<work>  <id>1309914</id>
+  <uri>kca://work/amzn1.gr.work.v1.NZWP5wBjpph1JzHYBe96gA</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+
+    <shelf name="to-read" exclusive="true" review_shelf_id="1707852405" sortable="true" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sun Jul 09 01:24:59 -0700 2017</date_added>
+  <date_updated>Sun Jul 09 01:24:59 -0700 2017</date_updated>
+  <read_count>0</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2054106497]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2054106497]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2020398045</id>
+    <book>
+  <id type="integer">4845</id>
+  <isbn>0735619670</isbn>
+  <isbn13>9780735619678</isbn13>
+  <text_reviews_count type="integer">289</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.LhCsn52IKQiMXKXJTrp_WA</uri>
+  <title>Code Complete</title>
+  <title_without_series>Code Complete</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1396837641m/4845.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1396837641s/4845.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/4845.Code_Complete</link>
+  <num_pages>914</num_pages>
+  <format>Paperback</format>
+  <edition_information>2nd Edition</edition_information>
+  <publisher>Microsoft Press</publisher>
+  <publication_day>19</publication_day>
+  <publication_year>2004</publication_year>
+  <publication_month>6</publication_month>
+  <average_rating>4.28</average_rating>
+  <ratings_count>6862</ratings_count>
+  <description>Widely considered one of the best practical guides to programming, Steve McConnell's original CODE COMPLETE has been helping developers write better software for more than a decade. Now this classic book has been fully updated and revised with leading-edge practices--and hundreds of new code samples--illustrating the art and science of software construction. Capturing the body of knowledge available from research, academia, and everyday commercial practice, McConnell synthesizes the most effective techniques and must-know principles into clear, pragmatic guidance. No matter what your experience level, development environment, or project size, this book will inform and stimulate your thinking--and help you build the highest quality code. &lt;br /&gt; Discover the timeless techniques and strategies that help you: &lt;br /&gt;&lt;br /&gt;Design for minimum complexity and maximum creativity&lt;br /&gt;Reap the benefits of collaborative development&lt;br /&gt;Apply defensive programming techniques to reduce and flush out errors&lt;br /&gt;Exploit opportunities to refactor--or evolve--code, and do it safely&lt;br /&gt;Use construction practices that are right-weight for your project&lt;br /&gt;Debug problems quickly and effectively&lt;br /&gt;Resolve critical construction issues early and correctly&lt;br /&gt;Build quality into the beginning, middle, and end of your project</description>
+<authors>
+<author>
+<id>3307</id>
+<name>Steve McConnell</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_200x266-d279b33f8eec0f27b7272477f09806be.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/3307.Steve_McConnell]]></link>
+<average_rating>4.19</average_rating>
+<ratings_count>9308</ratings_count>
+<text_reviews_count>437</text_reviews_count>
+</author>
+</authors>
+  <published>2004</published>
+<work>  <id>8419</id>
+  <uri>kca://work/amzn1.gr.work.v1.90BU9sqVi7QGKUhwbRwrQw</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+
+    <shelf name="to-read" exclusive="true" review_shelf_id="1674897775" sortable="true" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Mon Jun 05 06:13:09 -0700 2017</date_added>
+  <date_updated>Mon Jun 05 06:13:10 -0700 2017</date_updated>
+  <read_count>0</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2020398045]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2020398045]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2020391534</id>
+    <book>
+  <id type="integer">444653</id>
+  <isbn>0470110120</isbn>
+  <isbn13>9780470110126</isbn13>
+  <text_reviews_count type="integer">90</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.6ri2Gr0x6hem2076KhqRXA</uri>
+  <title>How to Measure Anything: Finding the Value of "Intangibles" in Business</title>
+  <title_without_series>How to Measure Anything: Finding the Value of "Intangibles" in Business</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/444653.How_to_Measure_Anything</link>
+  <num_pages>287</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>John Wiley &amp; Sons</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2007</publication_year>
+  <publication_month>7</publication_month>
+  <average_rating>3.97</average_rating>
+  <ratings_count>1572</ratings_count>
+  <description>Praise for How to Measure Anything: Finding the Value of Intangibles in Business&lt;br /&gt;&lt;br /&gt; "I love this book. Douglas Hubbard helps us create a path to know the answer to almost any question in business, in science, or in life . . . Hubbard helps us by showing us that when we seek metrics to solve problems, we are really trying to know something better than we know it now. How to Measure Anything provides just the tools most of us need to measure anything better, to gain that insight, to make progress, and to succeed."&lt;br /&gt; -Peter Tippett, PhD, M.D.&lt;br /&gt; Chief Technology Officer at CyberTrust&lt;br /&gt; and inventor of the first antivirus software&lt;br /&gt;&lt;br /&gt; "Doug Hubbard has provided an easy-to-read, demystifying explanation of how managers can inform themselves to make less risky, more profitable business decisions. We encourage our clients to try his powerful, practical techniques."&lt;br /&gt; -Peter Schay&lt;br /&gt; EVP and COO of&lt;br /&gt; The Advisory Council&lt;br /&gt;&lt;br /&gt; "As a reader you soon realize that actually everything can be measured while learning how to measure only what matters. This book cuts through conventional cliches and business rhetoric and offers practical steps to using measurements as a tool for better decision making. Hubbard bridges the gaps to make college statistics relevant and valuable for business decisions."&lt;br /&gt; -Ray Gilbert&lt;br /&gt; EVP Lucent&lt;br /&gt;&lt;br /&gt; "This book is remarkable in its range of measurement applications and its clarity of style. A must-read for every professional who has ever exclaimed, 'Sure, that concept is important, but can we measure it?'"&lt;br /&gt; -Dr. Jack Stenner&lt;br /&gt; Cofounder and CEO of MetraMetrics, Inc.</description>
+<authors>
+<author>
+<id>249999</id>
+<name>Douglas W. Hubbard</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1346835532p5/249999.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1346835532p2/249999.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/249999.Douglas_W_Hubbard]]></link>
+<average_rating>3.97</average_rating>
+<ratings_count>1928</ratings_count>
+<text_reviews_count>169</text_reviews_count>
+</author>
+</authors>
+  <published>2007</published>
+<work>  <id>433383</id>
+  <uri>kca://work/amzn1.gr.work.v1.IjLkhkqwKayknwo4XwZkRg</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+
+    <shelf name="to-read" exclusive="true" review_shelf_id="1674891637" sortable="true" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Mon Jun 05 06:03:53 -0700 2017</date_added>
+  <date_updated>Mon Jun 05 06:03:53 -0700 2017</date_updated>
+  <read_count>0</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2020391534]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2020391534]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2020389656</id>
+    <book>
+  <id type="integer">18423</id>
+  <isbn>0441007317</isbn>
+  <isbn13>9780441007318</isbn13>
+  <text_reviews_count type="integer">3724</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.rN6TzC6agHQRuPR-ZIDiGA</uri>
+  <title>The Left Hand of Darkness (Hainish Cycle #6)</title>
+  <title_without_series>The Left Hand of Darkness</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1488213612m/18423.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1488213612s/18423.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/18423.The_Left_Hand_of_Darkness</link>
+  <num_pages>304</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Ace</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2000</publication_year>
+  <publication_month>7</publication_month>
+  <average_rating>4.05</average_rating>
+  <ratings_count>76603</ratings_count>
+  <description>A groundbreaking work of science fiction, &lt;i&gt;The Left Hand of Darkness&lt;/i&gt; tells the story of a lone human emissary to Winter, an alien world whose inhabitants can choose -and change - their gender. His goal is to facilitate Winter's inclusion in a growing intergalactic civilization. But to do so he must bridge the gulf between his own views and those of the completely dissimilar culture that he encounters. &lt;br /&gt;&lt;br /&gt;Embracing the aspects of psychology, society, and human emotion on an alien world, &lt;i&gt;The Left Hand of Darkness&lt;/i&gt; stands as a landmark achievement in the annals of intellectual science fiction.</description>
+<authors>
+<author>
+<id>874602</id>
+<name>Ursula K. Le Guin</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1244291425p5/874602.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1244291425p2/874602.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/874602.Ursula_K_Le_Guin]]></link>
+<average_rating>4.03</average_rating>
+<ratings_count>715212</ratings_count>
+<text_reviews_count>35853</text_reviews_count>
+</author>
+</authors>
+  <published>2000</published>
+<work>  <id>817527</id>
+  <uri>kca://work/amzn1.gr.work.v1.ib33nQ-TF7lxc6H5YbzPUg</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+
+    <shelf name="to-read" exclusive="true" review_shelf_id="1674889774" sortable="true" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Mon Jun 05 06:01:05 -0700 2017</date_added>
+  <date_updated>Mon Jun 05 06:01:05 -0700 2017</date_updated>
+  <read_count>0</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2020389656]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2020389656]]></link>
+    <owned>0</owned>
+</review>
+
+</reviews>
+
+</GoodreadsResponse>
